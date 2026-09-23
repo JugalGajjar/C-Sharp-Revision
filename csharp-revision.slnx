@@ -3,6 +3,7 @@
     <Project Path="01-Basics/Conditionals/Conditionals.csproj" />
     <Project Path="01-Basics/ConsoleIO/ConsoleIO.csproj" />
     <Project Path="01-Basics/DataTypes/DataTypes.csproj" />
+    <Project Path="01-Basics/Functions/Functions.csproj" />
     <Project Path="01-Basics/HelloWorld/HelloWorld.csproj" />
     <Project Path="01-Basics/Loops/Loops.csproj" />
     <Project Path="01-Basics/Operators/Operators.csproj" />
