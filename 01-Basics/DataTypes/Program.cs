@@ -1,0 +1,21 @@
+﻿int age = 23;
+long bigNumber = 1234567890L;
+float pi = 3.14f;
+double preciseNumber = 3.141592653589793;
+decimal price = 9.99m;
+bool isTrue = true;
+char initial = 'J';
+string name = "John Doe";
+DateTime birthDate = new DateTime(1999, 12, 31);
+TimeSpan duration = new TimeSpan(1, 2, 3, 4);
+
+Console.WriteLine($"Age: {age}");
+Console.WriteLine($"Big Number: {bigNumber}");
+Console.WriteLine($"Pi: {pi}");
+Console.WriteLine($"Precise Number: {preciseNumber}");
+Console.WriteLine($"Price: {price}");
+Console.WriteLine($"Is True: {isTrue}");
+Console.WriteLine($"Initial: {initial}");
+Console.WriteLine($"Name: {name}");
+Console.WriteLine($"Birth Date: {birthDate}");
+Console.WriteLine($"Duration: {duration}");
