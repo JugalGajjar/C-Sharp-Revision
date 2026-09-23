@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/01-Basics/">
+    <Project Path="01-Basics/HelloWorld/HelloWorld.csproj" />
+  </Folder>
+</Solution>
