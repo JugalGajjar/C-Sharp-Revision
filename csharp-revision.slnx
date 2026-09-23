@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/01-Basics/">
+    <Project Path="01-Basics/Arrays/Arrays.csproj" />
     <Project Path="01-Basics/Conditionals/Conditionals.csproj" />
     <Project Path="01-Basics/ConsoleIO/ConsoleIO.csproj" />
     <Project Path="01-Basics/DataTypes/DataTypes.csproj" />
