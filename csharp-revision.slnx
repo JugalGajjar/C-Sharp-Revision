@@ -12,4 +12,7 @@
     <Project Path="01-Basics/Operators/Operators.csproj" />
     <Project Path="01-Basics/StudentRecordManagement/StudentRecordManagement.csproj" />
   </Folder>
+  <Folder Name="/02-OOP/">
+    <Project Path="02-OOP/ClassesAndObjects/ClassesAndObjects.csproj" />
+  </Folder>
 </Solution>
