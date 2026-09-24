@@ -10,5 +10,6 @@
     <Project Path="01-Basics/HelloWorld/HelloWorld.csproj" />
     <Project Path="01-Basics/Loops/Loops.csproj" />
     <Project Path="01-Basics/Operators/Operators.csproj" />
+    <Project Path="01-Basics/StudentRecordManagement/StudentRecordManagement.csproj" />
   </Folder>
 </Solution>
