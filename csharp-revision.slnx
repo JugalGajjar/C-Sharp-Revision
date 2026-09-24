@@ -14,5 +14,6 @@
   </Folder>
   <Folder Name="/02-OOP/">
     <Project Path="02-OOP/ClassesAndObjects/ClassesAndObjects.csproj" />
+    <Project Path="02-OOP/Encapsulation/Encapsulation.csproj" />
   </Folder>
 </Solution>
