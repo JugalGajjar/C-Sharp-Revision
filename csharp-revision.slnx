@@ -16,5 +16,6 @@
     <Project Path="02-OOP/ClassesAndObjects/ClassesAndObjects.csproj" />
     <Project Path="02-OOP/Encapsulation/Encapsulation.csproj" />
     <Project Path="02-OOP/Inheritance/Inheritance.csproj" />
+    <Project Path="02-OOP/Polymorphism/Polymorphism.csproj" />
   </Folder>
 </Solution>
